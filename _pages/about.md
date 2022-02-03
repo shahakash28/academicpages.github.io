@@ -16,7 +16,7 @@ Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I wor
 
 Publications/Pre-Prints
 ======
-1. GCWISE: Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky) [In Submission].
+1. GCWISE: Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky), Eurocrypt, 2022.
 1. SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost (with N. Chandran, D. Gupta and S.L.B. Obbattu), USENIX, 2022. [[paper](https://eprint.iacr.org/2021/1538.pdf)][[code](https://aka.ms/simc)]
 1. Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF (with N. Chandran and D. Gupta), PETs, 2022. [[paper](https://eprint.iacr.org/2021/034.pdf)][[code](https://github.com/shahakash28/2PC-Circuit-PSI)]
 1. Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI (with N. Chandran, N. Dasgupta, D. Gupta, S.L.B. Obbattu and S. Sekar), ACM CCS, 2021.[[paper](https://eprint.iacr.org/2021/172.pdf)][[code](https://github.com/shahakash28/PQC-mPSI)]
