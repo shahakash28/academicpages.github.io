@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student advised by [Prof. Rafail Ostrovsky](http://web.cs.ucla.edu/~rafail/) at UCLA. I am interested in solving practically relevant questions of cryptography.
+I am a second year Ph.D. student advised by [Prof. Rafail Ostrovsky](http://web.cs.ucla.edu/~rafail/) at UCLA. I am interested in solving practically relevant questions of cryptography.
 
 Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I worked closely with [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/). Prior to that, I completed my M.Tech (Research) in Computer Science from Indian Institute of Science (IISc) under the supervision of [Prof. Sanjit Chatterjee](https://www.csa.iisc.ac.in/~sanjit/).
 
@@ -16,7 +16,7 @@ Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I wor
 
 Publications/Pre-Prints
 ======
-1. GCWISE: Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky), Eurocrypt, 2022.
+1. Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky), Eurocrypt, 2022. [[paper](https://eprint.iacr.org/2022/797.pdf)]
 1. SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost (with N. Chandran, D. Gupta and S.L.B. Obbattu), USENIX, 2022. [[paper](https://eprint.iacr.org/2021/1538.pdf)][[code](https://aka.ms/simc)]
 1. Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF (with N. Chandran and D. Gupta), PETs, 2022. [[paper](https://eprint.iacr.org/2021/034.pdf)][[code](https://github.com/shahakash28/2PC-Circuit-PSI)]
 1. Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI (with N. Chandran, N. Dasgupta, D. Gupta, S.L.B. Obbattu and S. Sekar), ACM CCS, 2021.[[paper](https://eprint.iacr.org/2021/172.pdf)][[code](https://github.com/shahakash28/PQC-mPSI)]
@@ -28,7 +28,9 @@ Publications/Pre-Prints
 
 Activities
 ======
-1. External Reviewer: Eurocrypt'22, CCS'21, PKC'21, PKC'19, Indocrypt'18, ICISS'17, Latincrypt'17.
+1. External Reviewer: Eurocrypt 2022, CRYPTO 2022, TCC 2022, Asiacrypt 2022, CCS 2021, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
+1. Presented our work "SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost" at USENIX, 2022.
+1. Presented our work "Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF" at PETs, 2022.
 1. Presented our work "Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI" at ACM CCS, 2021.
 1. Presented our work "Secure Featurization and Application to Secure Phishing Detection" at ACM CCSW, 2021.
 1. Presented our project “Privacy Preserving Federated Learning for Phish Protection Models” at Microsoft, 2021.
