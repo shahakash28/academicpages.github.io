@@ -16,6 +16,7 @@ Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I wor
 
 Publications/Pre-Prints
 ======
+1. Succinct Arguments for RAM Programs via Projection Codes (with Y. Ishai and R. Ostrovsky), Crypto, 2023.
 1. Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky), Eurocrypt, 2022. [[paper](https://eprint.iacr.org/2022/797.pdf)]
 1. SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost (with N. Chandran, D. Gupta and S.L.B. Obbattu), USENIX, 2022. [[paper](https://eprint.iacr.org/2021/1538.pdf)][[code](https://aka.ms/simc)]
 1. Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF (with N. Chandran and D. Gupta), PETs, 2022. [[paper](https://eprint.iacr.org/2021/034.pdf)][[code](https://github.com/shahakash28/2PC-Circuit-PSI)]
@@ -26,9 +27,13 @@ Publications/Pre-Prints
 2020.[[paper](https://link.springer.com/article/10.1007/s10207-020-00492-w)]
 1. Signcryption in a Quantum World (with S. Chatterjee, T. Pandit, S. Puria), IACR Cryptol. ePrint Arch. 2020: 1388, 2020.[[paper](https://eprint.iacr.org/2020/1388.pdf)]
 
+Service
+======
+1. External Reviewer: Algorithmica, Eurocrypt 2022/23, CRYPTO 2022, CCS 2021, TCC 2022, Asiacrypt 2022, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
+1. Program Committee: [IEEE S&P 2023 Posters Program](https://sp2023.ieee-security.org/cfposters.html).
+
 Activities
 ======
-1. External Reviewer: Eurocrypt 2022, CRYPTO 2022, TCC 2022, Asiacrypt 2022, CCS 2021, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
 1. Presented our work "SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost" at USENIX, 2022.
 1. Presented our work "Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF" at PETs, 2022.
 1. Presented our work "Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI" at ACM CCS, 2021.
