@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student advised by [Prof. Rafail Ostrovsky](http://web.cs.ucla.edu/~rafail/) at UCLA. I am interested in solving practically relevant questions of cryptography.
+I am a Ph.D. candidate advised by [Prof. Rafail Ostrovsky](http://web.cs.ucla.edu/~rafail/) at UCLA. I am interested in solving practically relevant questions of cryptography.
 
 Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I worked closely with [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/). Prior to that, I completed my M.Tech (Research) in Computer Science from Indian Institute of Science (IISc) under the supervision of [Prof. Sanjit Chatterjee](https://www.csa.iisc.ac.in/~sanjit/).
 
@@ -29,11 +29,12 @@ Publications/Pre-Prints
 
 Service
 ======
-1. External Reviewer: Algorithmica, Eurocrypt 2022/23, CRYPTO 2022, CCS 2021, TCC 2022, Asiacrypt 2022, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
 1. Program Committee: [IEEE S&P 2023 Posters Program](https://sp2023.ieee-security.org/cfposters.html).
+1. External Reviewer: Algorithmica, Eurocrypt 2022/23/24, CRYPTO 2022, CCS 2021, TCC 2022/23, Asiacrypt 2022, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
 
 Activities
 ======
+1. Presented our work "Succinct Arguments for RAM programs via projection codes" at Crypto, 2023.
 1. Presented our work "SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost" at USENIX, 2022.
 1. Presented our work "Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF" at PETs, 2022.
 1. Presented our work "Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI" at ACM CCS, 2021.
