@@ -16,6 +16,9 @@ Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I wor
 
 Publications/Pre-Prints
 ======
+1. Zero-Knowledge RAM: Doubly Efficient and Black-Box (with Y. Ishai and R. Ostrovsky), Eurocrypt, 2025.
+1. Black-Box Constant-Round Secure 2PC with Succinct Communication (with M. Ciampi, A. Misra and R. Ostrovsky), Eurocrypt, 2025.
+1. On Reusable Proof Systems (with  Y. Ishai, E. Kushilevitz, V. Narayanan and R. Ostrovsky), Eurocrypt, 2025.
 1. Succinct Arguments for RAM Programs via Projection Codes (with Y. Ishai and R. Ostrovsky), Crypto, 2023.
 1. Garbled Circuits with Sublinear Evaluator (with A. Haque, D. Heath, V. Kolesnikov, S. Lu and R. Ostrovsky), Eurocrypt, 2022. [[paper](https://eprint.iacr.org/2022/797.pdf)]
 1. SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost (with N. Chandran, D. Gupta and S.L.B. Obbattu), USENIX, 2022. [[paper](https://eprint.iacr.org/2021/1538.pdf)][[code](https://aka.ms/simc)]
@@ -30,10 +33,11 @@ Publications/Pre-Prints
 Service
 ======
 1. Program Committee: [IEEE S&P 2023 Posters Program](https://sp2023.ieee-security.org/cfposters.html).
-1. External Reviewer: Algorithmica, Eurocrypt 2022/23/24, CRYPTO 2022, CCS 2021, TCC 2022/23, Asiacrypt 2022, PKC 2019/21, Indocrypt'18, ICISS'17, Latincrypt'17.
+1. External Reviewer: Algorithmica, TDSC, Eurocrypt 2022/23/24, CRYPTO 2022/24, CCS 2021, TCC 2022/23/24, Asiacrypt 2022, PKC 2019/21, Indocrypt 2018, ICISS 2017, Latincrypt 2017.
 
 Activities
 ======
+1. Invited Speaker at IISc to present our work titled "Doubly Efficient Black-Box Zero-Knowledge Arguments for RAM Programs", 2024.
 1. Presented our work "Succinct Arguments for RAM programs via projection codes" at Crypto, 2023.
 1. Presented our work "SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost" at USENIX, 2022.
 1. Presented our work "Circuit-PSI with Linear Complexity via Relaxed Batch OPPRF" at PETs, 2022.
